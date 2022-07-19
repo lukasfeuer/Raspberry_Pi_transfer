@@ -1,0 +1,35 @@
+# Linux Notes - Lukas Feuer
+
+# Git config
+git config --global user.email "feuerlukas@web.de"
+git config --global user.name "Lukas Feuer"
+
+Ctrl-Alt-T #Start the konsole/terminal
+
+echo "something"
+
+read reply # user input stored in $reply
+
+sleep
+
+whoami # username
+
+ls -a -l -t -r # example: list all files with more information sort by time oldest first (reverse) --> see ls -- help
+
+cd / # go to the root directory --> unix-like os does not divide drive (like Windows with C:)
+
+cd ~ # go to the user home directory OR just cd
+
+cd ../.. # move up two steps in the directory
+
+cd /home # absolute paths start with the /
+
+mkdir /tmp/tutorial # make directory
+
+mkdir dir1 dir2 dir3 # with three parameters/arguments
+
+mkdir -p dir4/dir5/dir6 # nested directories whith -p (called an option/switch)
+
+
+# Weiter bei:
+https://ubuntu.com/tutorials/command-line-for-beginners#4-creating-folders-and-files
