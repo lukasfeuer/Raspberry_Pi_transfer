@@ -4,6 +4,11 @@
 git config --global user.email "feuerlukas@web.de"
 git config --global user.name "Lukas Feuer"
 
+# Useful programs
+ranger
+kate
+
+
 Ctrl-Alt-T #Start the konsole/terminal
 
 echo "something"
